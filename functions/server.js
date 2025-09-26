@@ -7,7 +7,7 @@ class Greet {
     
   }
   getGreeting() {
-    return `<b>${messages.greeting}${this.name}</b> `;
+    return ` <b>${messages.greeting}${this.name}</b> `;
   }
 
   getCurrentTime() {
