@@ -1,6 +1,6 @@
 const messages = {
     defaultName: "User",
-    greeting: "Hello",
+    greeting: "Hello ",
     currentTime: "The current server time is",
 };
 
