@@ -28,7 +28,7 @@ export async function handler(event, context) {
       <html>
         <body style="color: blue;">
           <p>
-          ${greeter.getGreeting}
+          ${greeter.getGreeting()}
           ${greeter.getCurrentTime()}
           </p>
         </body>
